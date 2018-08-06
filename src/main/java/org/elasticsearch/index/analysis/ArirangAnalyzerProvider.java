@@ -18,7 +18,6 @@ package org.elasticsearch.index.analysis;
  */
 
 import org.apache.lucene.analysis.ko.KoreanAnalyzer;
-
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.env.Environment;
 import org.elasticsearch.index.IndexSettings;

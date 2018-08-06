@@ -1,7 +1,6 @@
 package org.elasticsearch.rest.action.analysis;
 
 import org.apache.lucene.analysis.ko.morph.MorphException;
-
 import org.apache.lucene.analysis.ko.utils.DictionaryUtil;
 import org.elasticsearch.client.node.NodeClient;
 import org.elasticsearch.common.inject.Inject;
