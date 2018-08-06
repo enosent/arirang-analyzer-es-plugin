@@ -12,7 +12,7 @@
       <outputDirectory>elasticsearch</outputDirectory>
     </file>
     <file>
-      <source>lib/arirang-morph-1.1.0.jar</source>
+      <source>lib/arirang-morph-1.1.5.jar</source>
       <outputDirectory>elasticsearch</outputDirectory>
     </file>
     <file>
